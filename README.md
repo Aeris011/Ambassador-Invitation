@@ -1,2 +1,0 @@
-# Ambassador-Invitation
-Ambassador Invitation
